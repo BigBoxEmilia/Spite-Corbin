@@ -19,6 +19,7 @@ public class Attack : MonoBehaviour
 
 
 
+
     void Start()
     {
         anim = GetComponent<Animator>();
