@@ -14,7 +14,7 @@ public class playerMovement : MonoBehaviour
 
     public bool grounded = true;
 
-
+    
     void Start()
     {
        rb = GetComponent<Rigidbody2D>();
